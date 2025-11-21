@@ -23,5 +23,3 @@ public class SauceDemo {
 
 }
 
-////*[@id="login-button"] - Relative xpath
-///html/body/div/div/div[2]/div[1]/div/div/form/input - Absolute xpath
